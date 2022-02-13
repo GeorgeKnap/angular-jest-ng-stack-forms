@@ -1,4 +1,6 @@
-Minimal repo to reproduce jest test error `Class constructor FormControl cannot be invoked without 'new'`
+# Minimal repo to reproduce jest test error `Class constructor FormControl cannot be invoked without 'new'`
+
+# fixex by upgraded @ng-stack/forms to version 3 (beta) that supports Angular 13
 
 steps to run:
 1. install node modules with `npm ci`
